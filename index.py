@@ -16,3 +16,4 @@ if lim > 0:
     print()
 else:
     print("El numero debe ser mayor a cero!!")
+    as
